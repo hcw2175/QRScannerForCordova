@@ -1,4 +1,4 @@
-package org.cloudsky.cordovaPlugins;
+package org.apache.cordova.qrscanner;
 
 import org.apache.cordova.CordovaPlugin;
 import org.apache.cordova.CallbackContext;
@@ -10,9 +10,9 @@ import android.app.Activity;
 import android.content.Intent;
 import android.content.Context;
 
-import org.cloudsky.cordovaPlugins.ZBarScannerActivity;
+import org.apache.cordova.qrscanner.ZBarScannerActivity;
 
-public class ZBar extends CordovaPlugin {
+public class QRScanner extends CordovaPlugin {    
 
     // Configuration ---------------------------------------------------
 

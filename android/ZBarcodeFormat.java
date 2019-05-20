@@ -1,4 +1,4 @@
-package org.cloudsky.cordovaPlugins;
+package org.apache.cordova.qrscanner;
 
 import net.sourceforge.zbar.Symbol;
 
